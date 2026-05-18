@@ -1,5 +1,5 @@
 [project]
-name = "ass"
+name = "ass_imbk"
 version = "1.0.4"
 description = "A library for parsing and manipulating Advanced SubStation Alpha subtitle files."
 authors = [
@@ -46,3 +46,6 @@ build-backend = "uv_build"
 [tool.pytest.ini_options]
 pythonpath = ["src"]
 testpaths = ["tests"]
+
+[tool.uv.build-backend]
+module-name = "ass"
