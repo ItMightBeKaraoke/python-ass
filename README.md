@@ -3,6 +3,8 @@
 A library for parsing and manipulating
 Advanced SubStation Alpha subtitle files.
 
+Note this is a (hopefully temporary) fork by ItMightBeKaraoke adding some minor improvements. If these or similar updates are upstreamed, this will be removed.
+
 ## Documents
 
 Example file: [**tests/test.ass**](./tests/test.ass)

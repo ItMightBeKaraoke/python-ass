@@ -1,14 +1,16 @@
 [project]
 name = "ass"
-version = "1.0.3"
+version = "1.0.4"
 description = "A library for parsing and manipulating Advanced SubStation Alpha subtitle files."
 authors = [
   { name="Tony Young", email="author@example.com" },
   { name="FichteFoll", email="fichtefoll2@googlemail.com" },
   { name="Myaamori" },
+  { name="ItMightBeKaraoke", email="code@itmightbekaraoke.com" },
 ]
 maintainers = [
   { name="FichteFoll", email="fichtefoll2@googlemail.com" },
+  { name="ItMightBeKaraoke", email="code@itmightbekaraoke.com" },
 ]
 readme = "README.md"
 requires-python = ">=3.8.1"
@@ -26,9 +28,9 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "http://github.com/chireiden/python-ass"
-Issues = "http://github.com/chireiden/python-ass/issues"
-"Release Notes" = "https://github.com/chireiden/python-ass/releases"
+Homepage = "http://github.com/itmightbekaraoke/python-ass"
+Issues = "http://github.com/itmightbekaraoke/python-ass/issues"
+"Release Notes" = "https://github.com/itmightbekaraoke/python-ass/releases"
 
 [dependency-groups]
 dev = [
